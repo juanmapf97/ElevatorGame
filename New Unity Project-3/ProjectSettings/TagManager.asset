@@ -6,6 +6,7 @@ TagManager:
   tags:
   - gcf1
   - gcf2
+  - Ghost
   layers:
   - Default
   - TransparentFX
